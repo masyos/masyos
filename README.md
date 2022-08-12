@@ -1,8 +1,8 @@
 ### Status
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username={masyos})](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=masyos)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username={masyos}&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=masyos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **masyos/masyos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
