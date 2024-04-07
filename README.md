@@ -1,4 +1,12 @@
-### Status
+# masyos
+
+## Languages
+
+[![Languages](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
+
+and Delphi, Pascal.
+
+## Status
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=masyos)](https://github.com/anuraghazra/github-readme-stats)
 
